@@ -3,6 +3,12 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
+h2 {
+    color: #ea1c2c;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
 #mainNavbar .nav-link {
     color: white;
 }
@@ -18,6 +24,8 @@ body {
 
 #mainNavbar .navbar-brand {
     color: #ea1c2c;
+    font-weight: 100;
+    font-size: 1.5rem;
 }
 
 #headingGroup span {
@@ -35,3 +43,4 @@ body {
         font-size: 3rem;
     }
 }
+
